@@ -1,2 +1,3 @@
-# first-repository
-Meu primeiro repositório para os desafios da DIO
+# Primeiro repositório 
+
+Repositório para mostrar alguns progressos e projetos aleatórios.
